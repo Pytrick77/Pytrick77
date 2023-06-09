@@ -10,3 +10,11 @@
   <img align="center" alt="pytrick77-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="pytrick77-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+
+
+
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=pytrick77&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![pytrick77](https://github-readme-stats.vercel.app/api/top-langs/?username=pytrick77&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
