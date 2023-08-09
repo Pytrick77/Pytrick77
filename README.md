@@ -1,7 +1,7 @@
 
-<p align="center">
+<h1 align="center">
 👋 Hello, world! I'm Patrick Ramos! 🧠 
-</p>
+</h1>
 <p align="center">
 🤯 Naturally curious, I'm diving into the fascinating realm of programming. 🌌 Currently, I'm delving into the depths of programming languages Python 🐍 and C# 🎯, eager to craft magical solutions with lines of code!
 </p>
