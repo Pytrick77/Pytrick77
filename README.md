@@ -1,6 +1,6 @@
 
 <h1 align="center">
-👋 Hello, world! I'm Patrick Ramos! 🧠 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1415F7&background=13131300&lines=%F0%9F%91%8B+Hello%2C+world!+;I'm+Patrick+Ramos!+%F0%9F%A7%A0+" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
 🤯 Naturally curious, I'm diving into the fascinating realm of programming. 🌌 Currently, I'm delving into the depths of programming languages Python 🐍 and C# 🎯, eager to craft magical solutions with lines of code!
